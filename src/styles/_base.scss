@@ -8,6 +8,36 @@ $color-white: #fff;
 // Typography
 $font-family: Roboto, sans-serif;
 
+$font-size-xs:  10px;
+$font-size-sm:  12px;
+$font-size-md:  14px;
+$font-size-lg:  16px;
+
+$line-height-xs: 14px;
+$line-height-sm: 16px;
+$line-height-md: 18px;
+
+$font-weight-regular: 400;
+$font-weight-medium:  500;
+$font-weight-bold:    700;
+
 // Card
-$card-width: 166px;
-$card-padding: 16px;
+$card-width:          166px;
+$card-padding:        16px;
+$card-padding-top:    32px;
+
+$card-image-width:    160px;
+$card-image-height:   134px;
+$card-image-margin-bottom: 40px;
+
+$card-title-margin-bottom:  4px;
+$card-code-margin-bottom:   16px;
+$card-review-margin-bottom: 24px;
+
+$card-button-height:        40px;
+$card-button-border-radius: 5px;
+
+// Stars
+$star-size:         16px;
+$star-margin-right: 4px;
+$stars-max-rating:  5;
